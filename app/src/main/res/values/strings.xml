@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification Reader</string>
+    <string name="available_app">Available Apps</string>
+    <string name="choose_app">Choose Apps</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
